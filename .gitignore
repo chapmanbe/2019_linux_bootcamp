@@ -1,4 +1,4 @@
 .ipynb_checkpoints
-.gitattributes
 __pycache__
 *.swp
+*.ziggy
